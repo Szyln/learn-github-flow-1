@@ -5,6 +5,7 @@
 - add style.css (add-css)
 - add script (add-js)
 - edit html title (edit-html-title)
+- edit css p style (edit-css)
 
 ## Release Note
 - 1.0
