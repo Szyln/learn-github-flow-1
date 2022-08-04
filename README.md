@@ -6,6 +6,7 @@
 - add script (add-js)
 - edit html title (edit-html-title)
 - edit script 1+1 (edit-js)
+- edit css p style (edit-css)
 
 ## Release Note
 - 1.0
